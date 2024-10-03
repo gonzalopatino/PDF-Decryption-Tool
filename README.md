@@ -13,6 +13,19 @@ A simple Python application that decrypts password-protected PDF files using `pi
 - Required Python packages:
   - `pikepdf`
   - `tkinter`
+## Setup Instructions
+
+### Using the Executable
+
+To use the pre-built executable, no installation is required. Simply follow the steps below:
+
+1. Download the `main.exe` file from the `dist/` folder.
+2. Double-click the executable to launch the application.
+3. Select a password-protected PDF, enter the password, and decrypt it.
+
+### Running from Source
+
+Alternatively, if you prefer to run from the source, follow these instructions:
 
 ## Setup Instructions
 
