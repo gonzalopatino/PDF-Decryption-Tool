@@ -69,7 +69,8 @@ If the tests pass successfully, you should see output similar to this:
 Ran 2 tests in 0.001s
 
 OK
-
+```
+---
 ### Project Structure
 
 ```plaintext
